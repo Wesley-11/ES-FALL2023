@@ -7,5 +7,7 @@ https://github.com/Wesley-11/ES-FALL2023/assets/144580707/748345b2-6946-4f71-bf8
 
 ## ab 3-2: 超音波感測器 + LED (紅色LED:亮<70cm, 藍色LED: 亮>270cm, 緑色LED:亮, 介於70cm ~ 270cm之間) + RS232 Output
 # 電路
-
+https://github.com/Wesley-11/ES-FALL2023/assets/144580707/ad46a05d-63aa-433c-84ab-5f07ebe7f3ab
 # 程式
+![Lab3-2](https://github.com/Wesley-11/ES-FALL2023/assets/144580707/76b63676-e22f-433f-9560-bae3a4cc621e)
+
